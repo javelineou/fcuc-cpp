@@ -1,3 +1,3 @@
 # fcuc-cpp
-Tutorial Structured programming at first city university college
+Tutorial Structured Programming at First City University College
 @javelineou
